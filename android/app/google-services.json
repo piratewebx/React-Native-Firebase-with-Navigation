@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585976064801",
+    "firebase_url": "https://easysell-9f67f.firebaseio.com",
+    "project_id": "easysell-9f67f",
+    "storage_bucket": "easysell-9f67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585976064801:android:61e6b26d550ac2ef4d6c60",
+        "android_client_info": {
+          "package_name": "com.selleasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585976064801-4mrhpb8ar14gooor1ds32eji5d6edjg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpDGVJHmHu4cWPFLVcZF_1-B0ZK4pftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585976064801-4mrhpb8ar14gooor1ds32eji5d6edjg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
